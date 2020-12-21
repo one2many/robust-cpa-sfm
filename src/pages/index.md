@@ -84,9 +84,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Contact Us Today
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: All client communication is confidential.
     actions:
       - type: action
         label: Learn More
