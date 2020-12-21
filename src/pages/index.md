@@ -2,27 +2,24 @@
 title: Home
 sections:
   - type: hero_section
-    title: CPA Services
+    title: Professional CPA Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Our company specializes in accounting and tax preparation services for a
+      wide variety of clients. We specialize in:  tax return filing and tax
+      planning for individuals, bookkeeping and financial statements for small
+      businesses, corporate tax return filing.
     actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: primary
       - type: action
         label: Contact Us
         url: /contact
-        style: secondary
+        style: primary
     align: left
-    image: images/hero.svg
     image_position: right
     has_background: true
     background:
       background_color: white
       background_image: /images/header-1040.jpg
-      background_image_opacity: 0
+      background_image_opacity: 75
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
@@ -39,7 +36,7 @@ sections:
           helpful comparisons and calculations for effective, practical business
           analysis.
         align: left
-        image: images/feature.svg
+        image: /images/planningservice.png
         image_position: right
         actions:
           - type: action
@@ -55,7 +52,7 @@ sections:
           preparation and filing instructions is a core service offered to our
           clients.
         align: left
-        image: images/feature.svg
+        image: /images/interesting-petunia.png
         image_position: left
         actions:
           - type: action
@@ -71,7 +68,7 @@ sections:
           overall objectives and is maintained with conscientious and consistent
           annual tax forecasting and mid-year tax planning.
         align: left
-        image: images/feature.svg
+        image: /images/happybankerblog.png
         image_position: right
         actions:
           - type: action
