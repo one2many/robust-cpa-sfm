@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: CPA Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Our company specializes in accounting and tax preparation services for a
+      wide variety of clients. We specialize in:  Tax return filing and tax
+      planning for individuals Bookkeeping and financial statements for small
+      businesses Corporate tax return filing
     actions:
       - type: action
         label: Learn More
