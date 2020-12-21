@@ -10,10 +10,6 @@ sections:
       businesses, corporate tax return filing.
     actions:
       - type: action
-        label: Learn More
-        url: /features
-        style: primary
-      - type: action
         label: Contact Us
         url: /contact
         style: secondary
