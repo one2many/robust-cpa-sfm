@@ -52,7 +52,7 @@ sections:
           preparation and filing instructions is a core service offered to our
           clients.
         align: left
-        image: images/feature.svg
+        image: /images/interesting-petunia.png
         image_position: left
         actions:
           - type: action
