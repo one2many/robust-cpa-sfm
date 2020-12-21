@@ -27,7 +27,7 @@
             {
                 "type": "action",
                 "label": "Financial Calculators",
-                "url": "/style-guide",
+                "url": "/cal",
                 "style": "link"
             },
             {
