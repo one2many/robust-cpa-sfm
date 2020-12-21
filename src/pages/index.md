@@ -30,9 +30,14 @@ sections:
     features:
       - type: feature
         title: Finance
-        content: >-
-          Prepare checks for signing, mail billings for services rendered and
-          deposit checks.
+        content: >
+          Financial Statement preparation for small business clients is a
+          long-standing service of this firm. Depending on the client's needs,
+          monthly, quarterly and year-end balance sheet and detailed operating
+          statements can be prepared and analyzed on a timely basis. The
+          state-of-the-art accounting software used in our office can provide
+          helpful comparisons and calculations for effective, practical business
+          analysis.
         align: left
         image: images/feature.svg
         image_position: right
