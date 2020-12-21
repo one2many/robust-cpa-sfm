@@ -58,9 +58,8 @@ sections:
       - type: feature
         title: Planning
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Small business tax return preparation and filing instructions is a
+          core service offered to our clients.
         align: left
         image: images/feature.svg
         image_position: right
