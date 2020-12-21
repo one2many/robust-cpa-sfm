@@ -44,9 +44,11 @@ sections:
       - type: feature
         title: Tax
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Our core service is the preparation of tax returns for individual
+          taxpayers. Over the years we have prepared and filed literally
+          thousands of Federal and State returns. Small business tax return
+          preparation and filing instructions is a core service offered to our
+          clients.
         align: left
         image: images/feature.svg
         image_position: left
