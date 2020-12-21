@@ -19,7 +19,7 @@ sections:
     background:
       background_color: white
       background_image: /images/header-1040.jpg
-      background_image_opacity: 90
+      background_image_opacity: 75
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
