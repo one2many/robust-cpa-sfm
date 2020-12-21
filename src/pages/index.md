@@ -29,7 +29,7 @@ sections:
     title: Services
     features:
       - type: feature
-        title: Feature 1
+        title: Management
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
