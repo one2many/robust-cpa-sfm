@@ -64,9 +64,12 @@ sections:
             style: secondary
       - type: feature
         title: Planning
-        content: >-
-          Small business tax return preparation and filing instructions is a
-          core service offered to our clients.
+        content: >
+          Tax planning and tax forecasting services for individual and small
+          business clients is a core competency of the firm. Effective tax
+          minimization begins with long-term tax strategizing to establish
+          overall objectives and is maintained with conscientious and consistent
+          annual tax forecasting and mid-year tax planning.
         align: left
         image: images/feature.svg
         image_position: right
