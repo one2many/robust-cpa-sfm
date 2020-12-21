@@ -31,9 +31,8 @@ sections:
       - type: feature
         title: Management
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Prepare checks for signing, mail billings for services rendered and
+          deposit checks.
         align: left
         image: images/feature.svg
         image_position: right
