@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Our company specializes in accounting and tax preparation services for a
       wide variety of clients. We specialize in:  Tax return filing and tax
-      planning for individuals Bookkeeping and financial statements for small
+      planning for individuals, bookkeeping and financial statements for small
       businesses, corporate tax return filing.
     actions:
       - type: action
