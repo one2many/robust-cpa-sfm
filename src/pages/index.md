@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: CPA Services
+    title: Professional CPA Services
     subtitle: >-
       Our company specializes in accounting and tax preparation services for a
       wide variety of clients. We specialize in:  tax return filing and tax
