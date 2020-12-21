@@ -24,15 +24,5 @@ sections:
       - src/data/team/miles-tone.yaml
       - src/data/team/dianne-ameter.yaml
       - src/data/team/gordon-norman.yaml
-  - type: cta_section
-    title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    actions:
-      - type: action
-        label: Contact Us
-        url: /contact
-        style: secondary
-    has_background: true
-    background_color: blue
 template: advanced
 ---
