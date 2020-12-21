@@ -68,7 +68,7 @@ sections:
           overall objectives and is maintained with conscientious and consistent
           annual tax forecasting and mid-year tax planning.
         align: left
-        image: images/feature.svg
+        image: /images/happybankerblog.png
         image_position: right
         actions:
           - type: action
