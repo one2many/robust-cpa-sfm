@@ -9,7 +9,7 @@
             {
                 "type": "action",
                 "label": "Services",
-                "url": "/features",
+                "url": "/Services",
                 "style": "link"
             },
             {
