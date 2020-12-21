@@ -36,7 +36,7 @@ sections:
           helpful comparisons and calculations for effective, practical business
           analysis.
         align: left
-        image: images/feature.svg
+        image: /images/planningservice.png
         image_position: right
         actions:
           - type: action
