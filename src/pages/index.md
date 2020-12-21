@@ -17,7 +17,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: white
+      background_color: gray
       background_image: /images/header-1040.jpg
       background_image_opacity: 75
       background_image_size: auto
