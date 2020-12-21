@@ -29,7 +29,7 @@ sections:
     title: Services
     features:
       - type: feature
-        title: Management
+        title: Finance
         content: >-
           Prepare checks for signing, mail billings for services rendered and
           deposit checks.
