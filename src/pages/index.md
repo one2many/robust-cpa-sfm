@@ -5,7 +5,7 @@ sections:
     title: CPA Services
     subtitle: >-
       Our company specializes in accounting and tax preparation services for a
-      wide variety of clients. We specialize in:  Tax return filing and tax
+      wide variety of clients. We specialize in:  tax return filing and tax
       planning for individuals, bookkeeping and financial statements for small
       businesses, corporate tax return filing.
     actions:
