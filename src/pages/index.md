@@ -19,7 +19,7 @@ sections:
         style: secondary
     align: left
     image: /images/w4.png
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: white
