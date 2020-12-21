@@ -12,7 +12,7 @@ sections:
       - type: action
         label: Contact Us
         url: /contact
-        style: secondary
+        style: primary
     align: left
     image_position: right
     has_background: true
