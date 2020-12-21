@@ -26,7 +26,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Serv
+    title: Services
     features:
       - type: feature
         title: Feature 1
